@@ -111,6 +111,10 @@ The dataset used for this project is included in the dataset folder.
 # Author
 
 Ayodeji Ogunmola
+#Github : https://github.com/Ayodeji-Analyst/Healthcare-Revenue-Time-Analysis
+linkedln : https://www.linkedin.com/in/ayodeji2801
+
+
 
 - LinkedIn
 - Portfolio
